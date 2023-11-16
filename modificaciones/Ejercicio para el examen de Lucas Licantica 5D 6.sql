@@ -1,0 +1,3 @@
+--En la tabla de empleados, 
+--se quieren resetear los usuarios y claves. 
+--Poner el apellido como nombre de usuario y "1234" como clave.
